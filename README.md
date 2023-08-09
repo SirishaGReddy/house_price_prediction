@@ -1,5 +1,11 @@
 # house_price_prediction using Linear Regression
 
+LINEAR REGRESSION:
+
+
+ Linear Regression is a supervised machine learning model that attempts to model a linear relationship between dependent variables (Y)  and independent variables (X).  Every evaluated observation with a model, the target (Y)’s actual value is compared to the target (Y)’s predicted value, and the major differences in these values are called residuals. The Linear Regression model aims to minimize the sum of all squared residuals.
+
+ ![image](https://github.com/SirishaGReddy/house_price_prediction/assets/141760085/1394ad6c-7e91-4d7f-850e-cbdefee584c8)
 
 
 Now let’s consider every step for the house price prediction using linear regression. 
